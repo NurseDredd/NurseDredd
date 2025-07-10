@@ -1,8 +1,8 @@
  - 👋 Hi, I’m Elise. Recently graduated Frontend developer @ Nackademin (May 2025)
  - 👀 I’m interested in Frontend development, accessibility, SEO, AI
- - :yellow_heart: Skills: Figma, HTML5, CSS3, SASS, Tailwind CSS, JavaScript, React, Typescript, Git, Github, TDD, API
+ - :yellow_heart: Skills: Figma, HTML5, CSS3, SASS, Tailwind CSS, JavaScript, React, Typescript, Git, Github, TDD, API, Vercel
  - 🌱 I’m currently open for work!
- - 💞️ Ongoing project: Portfolio website https://nursedredd.github.io/EliseWebsite/ , I'm also building a company website for a family day care which will go live soon. Stay tuned! 
+ - 💞️ Ongoing project: Portfolio website https://elise-portfolio-jet.vercel.app/
  - 📫 How to reach me: https://www.linkedin.com/in/elise-philipsson
  - ⚡ Fun fact: I'm also a registered nurse 
 
